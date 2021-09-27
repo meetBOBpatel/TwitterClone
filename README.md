@@ -29,11 +29,8 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src=Twitter.gif' width='250'/>
+### App Walkthough GIF
+<img src="Twitter.gif" width=250><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
