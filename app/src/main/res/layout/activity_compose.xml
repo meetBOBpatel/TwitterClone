@@ -7,6 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".ComposeActivity">
 
+
     <EditText
         android:id="@+id/etCompose"
         android:layout_width="match_parent"
@@ -29,5 +30,22 @@
         android:layout_alignParentEnd="true"
         android:layout_marginTop="5dp"
         android:layout_marginEnd="5dp"
+        android:background="#3AAED1"
+        android:shadowColor="#050505"
         android:text="@string/tweet" />
+
+    <TextView
+        android:id="@+id/tvChar"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etCompose"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="227dp"
+        android:layout_toStartOf="@+id/btnTweet"
+        android:hint="0/280"
+        android:text="TextView"
+        tools:text="0/280" />
+
 </RelativeLayout>
