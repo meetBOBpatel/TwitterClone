@@ -17,12 +17,12 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [x] User can view more tweets as they scroll with infinite pagination
-- [ ] Improve the user interface and theme the app to feel "twitter branded"
+- [x] Improve the user interface and theme the app to feel "twitter branded"
 - [x] Links in tweets are clickable and will launch the web browser
 - [ ] User can tap a tweet to display a "detailed" view of that tweet
 - [ ] User can see embedded image media within the tweet detail view
 - [ ] User can watch embedded video within the tweet
-- [ ] User can open the twitter app offline and see last loaded tweets
+- [x] User can open the twitter app offline and see last loaded tweets
 - [ ] On the Twitter timeline, leverage the CoordinatorLayout to apply scrolling behavior that hides / shows the toolbar.
 
 The following **additional** features are implemented:
